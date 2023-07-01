@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    background-color: rgb(41, 168, 9); 
+}
+li{
+    display: inline;
+    margin-left: 40px;
+    color: rgb(68, 3, 110);
+    cursor: pointer;
+    text-decoration: underline;
+    font-style: oblique;
+    font-size: xx-large;
+}
+.loo{
+    text-align: left;
+    color: blueviolet;
+    text-shadow: 10dvh;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+#joo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 3000;
+    color: #0eb416;
+    font-style: oblique;
+    flex-direction: column-reverse;
+   
+}
+p{
+    text-align: center;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 40px;
+}
+.name{
+    text-align: center;
+    display: block;
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: rgb(102, 10, 67);
+    text-decoration: underline;
+}
+.pic{
+    padding: 0px;
+}
+.dd{
+    text-align: right;
+}
